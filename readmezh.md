@@ -15,7 +15,36 @@
 1. 接下來下載[chromedriver](https://chromedriver.storage.googleapis.com/index.html)到根目錄
 補充說明:**根目錄就是解壓後的資料夾**
 
-**好了，接下來就是運行專案了**
+**好了，接下來就是設定運行專案了**
+
+## 設定專案
+1. 運行
+```
+npm i
+```
+來下載套件
+
+1. 接下來要客製化我們的內容，請在 ***.env*** 檔案中跟改你的帳號密碼
+>gmail=your_gmail
+>password=your_password
+>googlemeet=meet_code
+
+1. 接下來來我們要下載的東西都下載完了，我們來確認一下
+
+* node_modules 資料夾
+* main.js
+* .env
+* *.gitignore*
+* *README.md*
+* package-lock.json
+* pachage.json
+* xpath.json
+* *LICENSE*
+>斜體字表示可以刪掉(但不建議)
 
 ## 運行專案
-我不想打了好累
+
+**使用以下指令來執行**
+```
+node main.js
+```
