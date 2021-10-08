@@ -24,12 +24,12 @@ npm i
 ```
 來下載套件
 
-1. 接下來要客製化我們的內容，請在 ***.env*** 檔案中跟改你的帳號密碼
+2. 接下來要客製化我們的內容，請在 ***.env*** 檔案中跟改你的帳號密碼
 >gmail=your_gmail
 >>password=your_password
->>googlemeet=meet_code
+>>>googlemeet=meet_code
 
-1. 接下來來我們要下載的東西都下載完了，我們來確認一下
+3. 接下來來我們要下載的東西都下載完了，我們來確認一下
 
 * node_modules 資料夾
 * main.js
