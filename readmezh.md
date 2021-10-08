@@ -26,8 +26,8 @@ npm i
 
 1. 接下來要客製化我們的內容，請在 ***.env*** 檔案中跟改你的帳號密碼
 >gmail=your_gmail
->password=your_password
->googlemeet=meet_code
+>>password=your_password
+>>googlemeet=meet_code
 
 1. 接下來來我們要下載的東西都下載完了，我們來確認一下
 
